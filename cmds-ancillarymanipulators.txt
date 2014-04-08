@@ -1,4 +1,4 @@
-linkgit:git-config[1]::
+linkgit:git-config[100000]::
 	Get and set repository or global options.
 
 linkgit:git-fast-export[1]::
